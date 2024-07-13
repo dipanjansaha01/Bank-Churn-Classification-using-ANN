@@ -1,0 +1,2 @@
+#Bank Churn Classification-using ANN
+This project aims to predict whether a customer will churn (leave the bank) using an Artificial Neural Network (ANN). The model is trained on a dataset of bank customers with various features such as credit score, age, tenure, and account balance. The goal is to identify at-risk customers and help the bank take proactive measures to retain them.
